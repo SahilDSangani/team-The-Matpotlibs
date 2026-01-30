@@ -16,11 +16,11 @@ This can help:
 
 ## **Team Members**
 
-* **Addison Naylor** — Modeling, Slides — [anaylortm@gmail.com](mailto:anaylortm@gmail.com)
 * **Sahil Sangani** — Modeling, Slides — [sahildsangani@gmail.com](mailto:sahildsangani@gmail.com)
+* **Addison Naylor** — Modeling, Slides — [anaylortm@gmail.com](mailto:anaylortm@gmail.com)
+* **Eleni Bovalis** — README, Variable Dictionary, Slides — [bovalis2@illinois.edu](mailto:bovalis2@illinois.edu)
 * **Annika Luthe** — Variable Analysis, Slides — [annika.k@luthe.org](mailto:annika.k@luthe.org)
 * **Tanvee Athavale** — Variable Dictionary, Slides — [tan.fll.vale@gmail.com](mailto:tan.fll.vale@gmail.com)
-* **Eleni Bovalis** — README, Variable Dictionary, Slides — [bovalis2@illinois.edu](mailto:bovalis2@illinois.edu)
 
 ---
 
@@ -112,4 +112,3 @@ Our workflow included:
 * **Project Lead:** Lara T
 * **Data:** Baseball Reference
 * **Tools:** Python, Scikit-Learn, PCA, Pandas, PyBaseball, VSCode, GitHub, Google Slides
-itHub style (badges, icons, colors)?
